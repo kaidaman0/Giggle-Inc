@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/9/73/D2XXGNXZXHTN1VPM9EAPC4.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/AI/9/VV/O35OOWG6EF0N2784RO1XIV.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/AI/E/RI/DBLMZDQPWL3IDO249TMB3Z.uasset",
@@ -95,6 +96,21 @@
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/Random_Generation/1Level_generator.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/Random_Generation/AITEST.umap",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/AI/C/PL/4P3IJO9CGCJD2BH3WIFVT7.uasset",
+=======
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/GlerpFace.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/BP_Glerps.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/5/HQ/FNMXQG3Q3ELU1F6GQT1QMH.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/9/73/D2XXGNXZXHTN1VPM9EAPC4.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/4/WS/6U875I3BTN44OAJWFDHJ77.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/D/5K/XX6WLVPCAF442JWS2OWW8C.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/6/N2/PITY7QLG364KS96GT3GV67.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/C/RH/YAQJUC4T7EAOWKH59ATHTD.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/Mat_Glerp.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/BP_Glerp.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/BP_GlerpSpawner.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/Main_Level.umap",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/3/1J/WRIDX740CD1ORZ0RKBBXU6.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/a378593/OneDrive - Telford College/OneDrive/OneDrive - Telford College/Giggle_Inc/Content/Random_Generation/1Level_generator.uasset",
 				"C:/Users/a378593/OneDrive - Telford College/OneDrive/OneDrive - Telford College/Giggle_Inc/Content/Main_Level_HLOD0_Instancing.uasset",
 				"C:/Users/a378593/OneDrive - Telford College/OneDrive/OneDrive - Telford College/Giggle_Inc/Content/__ExternalActors__/Main_Level/C/91/IRZFAU1RUB4VEUDSHMZMP9.uasset",
