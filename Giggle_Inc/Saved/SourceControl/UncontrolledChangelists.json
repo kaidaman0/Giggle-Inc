@@ -13,11 +13,6 @@
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/7/X3/0ECMVBSND69M8U9JNZKXSV.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/7/0U/KIUX2C69T2TBOK3MP8F0M5.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/6/YF/YAK5XBJIPTYB5V3JLV6406.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/PngItem_3553545.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/BP_Glerp.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/Za_Warudo_-_Sound_Effect.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/BP_TheWorld.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/PngItem_3553544.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/Player_Character/Player_Character.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/ZaWarudo/BP_TheWorld.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/ZaWarudo/PngItem_3553544.uasset",
@@ -26,7 +21,16 @@
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/ZaWarudo/Mat_Glerp.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/ZaWarudo/Burst.uasset",
 				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/Main_Level/7/SI/8EULQKWHQ4GTMLGB5XDA7V.uasset",
-				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/GlerpFace.uasset"
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Glerp/GlerpFace.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI.umap",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/__ExternalActors__/AI/8/1L/UGH5YT8W53GLYXUNJOZ3F9.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/Player_Character/NewInputMappingContext.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/PngItem_3553545.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/BP_Glerp.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/Za_Warudo_-_Sound_Effect.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/BP_TheWorld.uasset",
+				"C:/Users/a375470/OneDrive - Telford College/Documents/Unreal Projects/Giggle-Inc/Giggle_Inc/Content/AI/Enemies/Dio/PngItem_3553544.uasset"
 			]
 		}
 	]
